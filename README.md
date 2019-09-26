@@ -1,4 +1,4 @@
-# Unit 1 Lesson 6 Lab: Grid
+# Unit 1 Lesson 6 Lab: Grid 🏁
 ## Landing Page Recreation
 
 ### Purpose 
@@ -8,7 +8,7 @@ This lab will illustrate for you, just how powerful layout tools are and how muc
 
 ### Directions
 You are to recreate [this mockup](https://www.figma.com/proto/EGG0ERL0HRRWkXLx4hl4uH/Landing-Page-Lab-Grid?node-id=1%3A3&scaling=scale-down). This is not expected to be pixel perfect. You can customize the content and the colors but the layout should be **identical**.
-You are not allowed to use any `display` properties other than `grid` or `flex`. 💪🏽
+**You are not allowed to use any `display` properties other than `grid` or `flex`.** 💪🏽
 1. Fork this repo
 2. Clone it
 3. Navigate to `fellow-submissions` and create `first-last`
