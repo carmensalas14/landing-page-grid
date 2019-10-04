@@ -1,0 +1,44 @@
+body{
+    font-family:sans-serif;
+}
+
+.grid{
+    display: grid;
+    max-width:1000px;
+    grid-template-rows: 1fr 3fr .75fr;
+    grid-template-columns:1fr 2fr;
+    grid-template-areas:
+    "header header"
+    "aside article"
+    "nav nav"
+    
+}
+header{
+    grid-area:header;
+    background-color:#040972;
+}
+
+aside{
+    grid-area:aside;
+    background-color: #64b0a7;
+
+article{
+    grid-area:article;
+}
+
+footer{
+    grid-area:nav;
+    background-color: #f2eaa6;
+}
+
+.header-heading{
+     font-size:60px;
+ }
+
+figure, img{
+    height:200px;
+}
+
+ul{
+    list-style:disc;
+}
